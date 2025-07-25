@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi there, I'm Saran Kumar !</h2>
+
+<p>🎓 B.Tech student in Artificial Intelligence & Data Science.</p>
+<p>💡 Strong interest in Generative AI and real-world AI solutions.</p>
+<p>🛠️ Skilled in Python, Java, R, and ML frameworks.</p>
+<p>🧠 Exploring RAG and agentic model based development.</p>
+<p>🔌 Hands-on experience in building IoT systems.</p>
+
+
 
 ###
 
@@ -40,6 +48,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
