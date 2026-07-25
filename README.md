@@ -18,10 +18,9 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SARAN-KUMAR-S&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="160"
-    alt="GitHub Stats"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=SARAN-KUMAR-S&show_icons=true&theme=dracula"
+  alt="Saran's GitHub Stats"
+/>
 
   <img
     src="https://streak-stats.demolab.com?user=SARAN-KUMAR-S&theme=dracula&hide_border=false&border_radius=5"
@@ -29,19 +28,14 @@
     alt="GitHub Streak"
   />
 
-</div>
+
 
 <br>
 
-<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAN-KUMAR-S&layout=compact&langs_count=8&theme=dracula&hide_border=false"
-    height="160"
-    alt="Top Languages"
-  />
 
-</div>
+
+
 
 ---
 
