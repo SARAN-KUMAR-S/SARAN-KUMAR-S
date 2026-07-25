@@ -12,10 +12,11 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dkdGdjaWg2cHJrNW16bjNqYzBtbTh6c2hlNGI4MnQ1YTFqbTVydSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
 
-<a href="https://leetcode.com/u/saran123/">
-  <img src="https://leetcard.jacoblin.cool/ssarankumar12/?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-</a>
+<h3 align="left">🔥 LeetCode Stats</h3>
 
+<a href="https://leetcode.com/u/ssarankumar12/">
+  <img src="https://leetcard.jacoblin.cool/ssarankumar12?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</a>
 ###
 
 <div align="left">
